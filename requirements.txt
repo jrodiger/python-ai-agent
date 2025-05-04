@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_community
+langchain_openai
+langchain_ollama
+ollama
+faiss-cpu
+langchainhub
+langchain_experimental
+duckduckgo-search # Replaced Tavily
+bs4 # For potential web scraping if needed by RAG or search

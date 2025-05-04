@@ -1,0 +1,99 @@
+Jonathan Amory Rodiger
+(978) 809-9233 | jonathanrodiger@gmail.com | Boston, MA
+linkedin.com/in/jonathan-rodiger
+
+Senior Bioinformatics Engineer with 7+ years' experience driving efficiency through bioinformatics software development, data analysis, and workflow optimization. Expertise includes full-stack web development, cloud platforms, relational database management, and agentic tools using large language models.
+
+Skills
+
+
+Programming Languages: Python, R, JavaScript, TypeScript, HTML, CSS
+Frameworks & Libraries: Nextflow, Django, Flask, React, Next.js, Plotly, Pandas, Selenium, Tailwind CSS
+LLMs & Frameworks: OpenAI, Gemini, Claude, Perplexity, Ollama, LangChain, Retrieval Augmented Generation
+DevOps: GitHub Actions, AWS CodePipeline + CodeBuild, Docker, Git
+Databases & Cloud: PostgreSQL, pgvector, MySQL, AWS, GCP, HPC, SLURM
+Bioinformatics Tools: JBrowse, Cytoscape, SIRIUS, AlphaFold, ESMFold, BLAST, GATK
+
+Industry Knowledge
+NGS bioinformatics pipeline design and optimization
+Full-stack web development and cloud infrastructure management
+Relational database modeling, administration, and performance tuning
+Agentic tool development with LLMs for advanced data applications
+
+Open Source Contributions
+Developed SNP CRISPR, a SNP-targeted CRISPR design pipeline
+Previous lead developer of the Brain Arts Organization website
+Contributed bug fixes and updates to documentation for the React Native framework
+
+Work Experience
+
+
+Senior Bioinformatics Engineer II                                                                                  September 2024 - April 2025
+LifeMine Therapeutics, Cambridge MA
+Designed and implemented a mass spectrometry database schema, utilizing vector embeddings to represent spectral data and leveraging pgvector for spectral similarity searches
+Developed agentic web tools using LangChain, integrating multiple LLMs for advanced data aggregation, AI-driven interactive Plotly figure generation, and natural language database querying
+Led migration of bioinformatics pipelines (DNA-Seq, RNA-Seq) to Seqera Platform, optimizing performance and reducing operational costs by up to 25% through strategic resource management
+
+Senior Bioinformatics Engineer I                                                                                August 2022 - September 2024
+LifeMine Therapeutics, Cambridge MA
+Developed and integrated dynamic LC-MS/RNA-Seq correlation analyses into a bioinformatics web platform, enhancing data accessibility and enabling interactive visualization
+Optimized database architecture and query performance by implementing a new schema based on non-redundant protein sequences, reducing data volume by over 50%
+Designed and implemented advanced user interfaces for internal data curation workflows, resulting in a 3x increase in platform usage
+
+Bioinformatics Engineer II		 April 2021 - August 2022
+LifeMine Therapeutics, Cambridge MA
+Built a web portal providing user-friendly access to internal databases and enabling execution of advanced bioinformatics tools (e.g., AlphaFold, comparative genomics heatmaps)
+Implemented JBrowse as a cost-effective, open-source genome browser for internal genomic data, eliminating costly licensing fees associated with the prior system
+Bioinformatics Software Developer                                                                                      August 2018 - April 2021
+Harvard Medical School - DRSC/Perrimon Lab, Boston MA
+Developed and maintained various online bioinformatics tools for CRISPR sgRNA design, transcription factor prediction, laboratory information management systems (LIMS) among others
+Performed variant calling on WGRS data using the Broad's GATK best practices workflow
+Conducted QC and analysis of bulk RNA-Seq datasets using a high-performance computing cluster
+Designed bioinformatics pipelines and optimized existing pipeline performance through parallelization
+Built full-stack web applications and managed internal relational database of genomic data
+
+Graduate Teaching Assistant		 January 2018 – May 2018
+Boston University College of Engineering, Boston MA
+Assisted instructor teaching BF527 Applications in Bioinformatics
+Mentored students with programming/analysis assignments on topics including: Linux/Unix, Python, Dynamic Programming, BLAST, RNA-Seq Analysis, Machine Learning, and more
+Held office hours, and graded homework/labs of students
+
+Software Developer                                                                                                                June 2017 – August 2017
+Mentorleaf.com, Carlisle PA
+Helped develop a matching algorithm to pair users with mentors based on interest metadata
+Developed front and back-end software services using JavaScript, Node.js, MongoDB, HTML, and CSS
+Leveraged GitHub workflow for team coordination and software delivery to cloud based platform
+Utilized Mongoose and Robo 3T for schema creation and analysis
+
+Education
+
+
+Dickinson College, Carlisle, PA                                                                                                    Graduated May 2017
+Bachelor of Science, Computer Science, Concentration in Biology
+Honors: Founders Scholar 2013-2017 (merit scholarship)
+
+Publications
+
+
+REPTOR and CREBRF encode key regulators of muscle energy metabolism
+Nature Communications - Aug 15, 2023
+https://www.nature.com/articles/s41467-023-40595-1
+
+Next-generation large-scale binary protein interaction network for Drosophila melanogaster
+Nature Communications - Apr 15, 2023
+https://www.nature.com/articles/s41467-023-37876-0
+
+Paralog Explorer: A resource for mining information about paralogs in common research organisms
+Computational and Structural Biotechnology Journal - Nov 24, 2022
+https://www.sciencedirect.com/science/article/pii/S2001037022005359
+
+SNP-CRISPR: A Web Tool for SNP-Specific Genome Editing
+G3 - Feb 1, 2020
+https://academic.oup.com/g3journal/article/10/2/489/6026318
+
+Pooled CRISPR Screens in Drosophila Cells
+Current Protocols in Molecular Biology - Nov 6, 2019
+https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpmb.111
+
+Full list:
+https://scholar.google.com/citations?user=tBd4t0gAAAAJ
